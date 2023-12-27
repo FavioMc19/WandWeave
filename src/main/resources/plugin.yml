@@ -1,4 +1,8 @@
 name: WandWeave
 version: '${version}'
 main: net.kokoricraft.wandweave.WandWeave
-api-version: '1.20'
+api-version: 1.20
+commands:
+  wandweave:
+    usage: /wandweave <sub command>
+    description: temporal command for test
