@@ -1,0 +1,4 @@
+name: WandWeave
+version: '${version}'
+main: net.kokoricraft.wandweave.WandWeave
+api-version: '1.20'
